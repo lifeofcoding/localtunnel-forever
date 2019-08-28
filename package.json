@@ -1,0 +1,16 @@
+{
+  "name": "localtunnel-forever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "address": "^1.1.2",
+    "ips": "^2.1.3",
+    "localtunnel": "^1.9.2"
+  }
+}
